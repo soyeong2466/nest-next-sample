@@ -1,0 +1,10 @@
+{
+  "name": "nest-next-sample",
+  "version": "0.1.0",
+  "description": "NestJS +  Next.js sample application / Backend and Frontend use only TypeScript!!!",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
